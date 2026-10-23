@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5afeb4a0-97fe-4bba-9853-f0cb53dbe705" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AuthService1" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.5737165202092154E-81" />
+      <entry key="S2" value="6.298420122925301E-21" />
+      <entry key="S5" value="8.31177506312683E-9" />
+      <entry key="S10" value="9.138416494881717E-5" />
+      <entry key="S30" value="0.060648623263824385" />
+      <entry key="S60" value="0.6504997223839266" />
+      <entry key="M2" value="3.8082526998223236" />
+      <entry key="M5" value="16.04991098493648" />
+      <entry key="M10" value="32.93285368578506" />
+      <entry key="M15" value="47.4053608371059" />
+      <entry key="M30" value="83.23461129296923" />
+      <entry key="H1" value="128.11701737214688" />
+      <entry key="H2" value="168.14942138111886" />
+      <entry key="H4" value="200.21639934427023" />
+      <entry key="D1" value="337.12172729465584" />
+      <entry key="W1" value="425.30461174682546" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000815" />
+      <entry key="S2" value="1.0005341379461308" />
+      <entry key="S5" value="1.0490977254299618" />
+      <entry key="S10" value="1.2215804424582022" />
+      <entry key="S30" value="1.628555239041027" />
+      <entry key="S60" value="2.2383419477378412" />
+      <entry key="M2" value="4.463889223562678" />
+      <entry key="M5" value="10.990459210510778" />
+      <entry key="M10" value="18.27180730942791" />
+      <entry key="M15" value="23.59801963373352" />
+      <entry key="M30" value="36.09963062832877" />
+      <entry key="H1" value="52.57012977155514" />
+      <entry key="H2" value="68.07259661940347" />
+      <entry key="H4" value="81.48485185904293" />
+      <entry key="D1" value="151.095047954705" />
+      <entry key="W1" value="197.58118149152995" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.087199594995E-6" />
+      <entry key="MS500" value="0.07309922900325291" />
+      <entry key="S2" value="0.520250727178453" />
+      <entry key="S5" value="0.8077883457801145" />
+      <entry key="S10" value="1.0723139323610842" />
+      <entry key="S30" value="1.6164895691307024" />
+      <entry key="S60" value="2.8286329579755405" />
+      <entry key="M2" value="8.197883983904902" />
+      <entry key="M5" value="26.945354890557656" />
+      <entry key="M10" value="51.10994743904552" />
+      <entry key="M15" value="70.91390937521686" />
+      <entry key="M30" value="119.25567612426782" />
+      <entry key="H1" value="180.62410564612006" />
+      <entry key="H2" value="236.17895028858288" />
+      <entry key="H4" value="281.67504905455564" />
+      <entry key="D1" value="488.20966428665275" />
+      <entry key="W1" value="622.8845383789292" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3L08zIei7fuobfLozTcnAaVKa4g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/AAYUSH MAHALANGE/OneDrive/Desktop/Java_Programming_Language/JAVA_BACKEND/AuthService1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/AAYUSH MAHALANGE/OneDrive/Desktop/Java_Programming_Language/JAVA_BACKEND/AuthService1/src/main/java/org/example/Main.java",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5afeb4a0-97fe-4bba-9853-f0cb53dbe705" name="Changes" comment="" />
+      <created>1792579894173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792579894173</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
